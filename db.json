@@ -1,0 +1,536 @@
+{
+    "location": {
+        "name": "Lecce",
+        "region": "Puglia",
+        "country": "Italy",
+        "lat": 40.38,
+        "lon": 18.18,
+        "tz_id": "Europe/Rome",
+        "localtime_epoch": 1653302072,
+        "localtime": "2022-05-23 12:34"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2022-05-23",
+                "date_epoch": 1653264000,
+                "day": {
+                    "condition": {
+                        
+                    }
+                },
+                "astro": {
+                    "sunrise": "05:25 AM",
+                    "sunset": "08:04 PM",
+                    "moon_phase": "Third Quarter"
+                },
+                "hour": [
+                    {
+                        "time_epoch": 1653256800,
+                        "time": "2022-05-23 00:00",
+                        "temp_c": 19.7,
+                        "temp_f": 67.5,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 9.7,
+                        "wind_degree": 187,
+                        "wind_dir": "S",
+                        "pressure_mb": 1012.0,
+                        "precip_mm": 0.0,
+                        "humidity": 69,
+                        "cloud": 13,
+                        "feelslike_c": 19.7,
+                        "feelslike_f": 67.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653260400,
+                        "time": "2022-05-23 01:00",
+                        "temp_c": 19.7,
+                        "temp_f": 67.5,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 8.8,
+                        "wind_degree": 173,
+                        "wind_dir": "S",
+                        "pressure_mb": 1012.0,
+                        "precip_mm": 0.0,
+                        "humidity": 69,
+                        "cloud": 12,
+                        "feelslike_c": 19.7,
+                        "feelslike_f": 67.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653264000,
+                        "time": "2022-05-23 02:00",
+                        "temp_c": 19.8,
+                        "temp_f": 67.6,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 7.8,
+                        "wind_degree": 158,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1012.0,
+                        "precip_mm": 0.0,
+                        "humidity": 69,
+                        "cloud": 12,
+                        "feelslike_c": 19.8,
+                        "feelslike_f": 67.6,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653267600,
+                        "time": "2022-05-23 03:00",
+                        "temp_c": 19.8,
+                        "temp_f": 67.6,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 6.8,
+                        "wind_degree": 143,
+                        "wind_dir": "SE",
+                        "pressure_mb": 1012.0,
+                        "precip_mm": 0.0,
+                        "humidity": 69,
+                        "cloud": 12,
+                        "feelslike_c": 19.8,
+                        "feelslike_f": 67.6,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653271200,
+                        "time": "2022-05-23 04:00",
+                        "temp_c": 20.6,
+                        "temp_f": 69.0,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 7.9,
+                        "wind_degree": 136,
+                        "wind_dir": "SE",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 65,
+                        "cloud": 10,
+                        "feelslike_c": 20.6,
+                        "feelslike_f": 69.0,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653274800,
+                        "time": "2022-05-23 05:00",
+                        "temp_c": 21.3,
+                        "temp_f": 70.4,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 9.0,
+                        "wind_degree": 129,
+                        "wind_dir": "SE",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 62,
+                        "cloud": 8,
+                        "feelslike_c": 21.3,
+                        "feelslike_f": 70.4,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653278400,
+                        "time": "2022-05-23 06:00",
+                        "temp_c": 22.1,
+                        "temp_f": 71.8,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 10.1,
+                        "wind_degree": 122,
+                        "wind_dir": "ESE",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 59,
+                        "cloud": 6,
+                        "feelslike_c": 24.6,
+                        "feelslike_f": 76.3,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653282000,
+                        "time": "2022-05-23 07:00",
+                        "temp_c": 23.3,
+                        "temp_f": 73.9,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 11.9,
+                        "wind_degree": 138,
+                        "wind_dir": "SE",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 56,
+                        "cloud": 5,
+                        "feelslike_c": 25.2,
+                        "feelslike_f": 77.4,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653285600,
+                        "time": "2022-05-23 08:00",
+                        "temp_c": 24.5,
+                        "temp_f": 76.1,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 13.7,
+                        "wind_degree": 154,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 54,
+                        "cloud": 4,
+                        "feelslike_c": 25.8,
+                        "feelslike_f": 78.4,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653289200,
+                        "time": "2022-05-23 09:00",
+                        "temp_c": 25.7,
+                        "temp_f": 78.3,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 15.5,
+                        "wind_degree": 170,
+                        "wind_dir": "S",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 52,
+                        "cloud": 3,
+                        "feelslike_c": 26.4,
+                        "feelslike_f": 79.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653292800,
+                        "time": "2022-05-23 10:00",
+                        "temp_c": 27.0,
+                        "temp_f": 80.7,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 16.7,
+                        "wind_degree": 179,
+                        "wind_dir": "S",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 52,
+                        "cloud": 2,
+                        "feelslike_c": 28.1,
+                        "feelslike_f": 82.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653296400,
+                        "time": "2022-05-23 11:00",
+                        "temp_c": 28.4,
+                        "temp_f": 83.1,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 17.9,
+                        "wind_degree": 188,
+                        "wind_dir": "S",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 52,
+                        "cloud": 1,
+                        "feelslike_c": 29.7,
+                        "feelslike_f": 85.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653300000,
+                        "time": "2022-05-23 12:00",
+                        "temp_c": 29.7,
+                        "temp_f": 85.5,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 19.1,
+                        "wind_degree": 197,
+                        "wind_dir": "SSW",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 53,
+                        "cloud": 0,
+                        "feelslike_c": 31.4,
+                        "feelslike_f": 88.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653303600,
+                        "time": "2022-05-23 13:00",
+                        "temp_c": 29.1,
+                        "temp_f": 84.4,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 19.2,
+                        "wind_degree": 193,
+                        "wind_dir": "SSW",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 52,
+                        "cloud": 0,
+                        "feelslike_c": 30.6,
+                        "feelslike_f": 87.0,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653307200,
+                        "time": "2022-05-23 14:00",
+                        "temp_c": 28.6,
+                        "temp_f": 83.4,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 19.3,
+                        "wind_degree": 190,
+                        "wind_dir": "S",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 52,
+                        "cloud": 0,
+                        "feelslike_c": 29.7,
+                        "feelslike_f": 85.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653310800,
+                        "time": "2022-05-23 15:00",
+                        "temp_c": 28.0,
+                        "temp_f": 82.4,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 19.4,
+                        "wind_degree": 187,
+                        "wind_dir": "S",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 52,
+                        "cloud": 0,
+                        "feelslike_c": 28.9,
+                        "feelslike_f": 84.0,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653314400,
+                        "time": "2022-05-23 16:00",
+                        "temp_c": 27.1,
+                        "temp_f": 80.8,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 19.9,
+                        "wind_degree": 181,
+                        "wind_dir": "S",
+                        "pressure_mb": 1009.0,
+                        "precip_mm": 0.0,
+                        "humidity": 54,
+                        "cloud": 0,
+                        "feelslike_c": 28.1,
+                        "feelslike_f": 82.6,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653318000,
+                        "time": "2022-05-23 17:00",
+                        "temp_c": 26.3,
+                        "temp_f": 79.3,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 20.4,
+                        "wind_degree": 174,
+                        "wind_dir": "S",
+                        "pressure_mb": 1009.0,
+                        "precip_mm": 0.0,
+                        "humidity": 56,
+                        "cloud": 0,
+                        "feelslike_c": 27.3,
+                        "feelslike_f": 81.1,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653321600,
+                        "time": "2022-05-23 18:00",
+                        "temp_c": 25.4,
+                        "temp_f": 77.7,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 20.9,
+                        "wind_degree": 167,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1009.0,
+                        "precip_mm": 0.0,
+                        "humidity": 59,
+                        "cloud": 0,
+                        "feelslike_c": 26.5,
+                        "feelslike_f": 79.7,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653325200,
+                        "time": "2022-05-23 19:00",
+                        "temp_c": 23.6,
+                        "temp_f": 74.4,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 19.2,
+                        "wind_degree": 161,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 64,
+                        "cloud": 1,
+                        "feelslike_c": 24.3,
+                        "feelslike_f": 75.7,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653328800,
+                        "time": "2022-05-23 20:00",
+                        "temp_c": 21.7,
+                        "temp_f": 71.1,
+                        "is_day": 1,
+                        "condition": {
+                            "text": "Sunny",
+                            "code": 1000
+                        },
+                        "wind_kph": 17.5,
+                        "wind_degree": 155,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 70,
+                        "cloud": 2,
+                        "feelslike_c": 21.7,
+                        "feelslike_f": 71.1,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653332400,
+                        "time": "2022-05-23 21:00",
+                        "temp_c": 19.9,
+                        "temp_f": 67.8,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 15.8,
+                        "wind_degree": 149,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1011.0,
+                        "precip_mm": 0.0,
+                        "humidity": 76,
+                        "cloud": 4,
+                        "feelslike_c": 19.9,
+                        "feelslike_f": 67.8,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653336000,
+                        "time": "2022-05-23 22:00",
+                        "temp_c": 19.7,
+                        "temp_f": 67.5,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 16.1,
+                        "wind_degree": 153,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 76,
+                        "cloud": 4,
+                        "feelslike_c": 19.7,
+                        "feelslike_f": 67.5,
+                        "vis_km": 10.0
+                    },
+                    {
+                        "time_epoch": 1653339600,
+                        "time": "2022-05-23 23:00",
+                        "temp_c": 19.5,
+                        "temp_f": 67.1,
+                        "is_day": 0,
+                        "condition": {
+                            "text": "Clear",
+                            "code": 1000
+                        },
+                        "wind_kph": 16.3,
+                        "wind_degree": 156,
+                        "wind_dir": "SSE",
+                        "pressure_mb": 1010.0,
+                        "precip_mm": 0.0,
+                        "humidity": 77,
+                        "cloud": 4,
+                        "feelslike_c": 19.5,
+                        "feelslike_f": 67.1,
+                        "vis_km": 10.0
+                    }
+                ]
+            }
+        ]
+    }
+}
